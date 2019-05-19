@@ -1,0 +1,7 @@
+{
+  "name": "prvlged-pwa-4",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
